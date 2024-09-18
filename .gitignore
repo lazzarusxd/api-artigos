@@ -1,0 +1,12 @@
+# Diretório do ambiente virtual
+.venv/
+env/
+venv/
+
+# Diretório do PyCharm
+.idea/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
